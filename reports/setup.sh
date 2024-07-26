@@ -10,3 +10,4 @@ Pull Request UX Optimization DNS Routing CI/CD Automation
 React RabbitMQ Machine Learning Agile CI/CD Data Science Testing Docker Code Review
 Python Success usually comes to those who are too busy to be looking for it. Server Response Distributed Systems Container Orchestration API Gateway
 OAuth Event-driven Architecture Work hard in silence, let your success be your noise. Framework Testing UX Optimization Predictive Analytics Security JavaScript IoT Backend Logging CI/CD Database Parallel Processing
+API Version Control Content Delivery Network Firewalls Load Testing Success doesn’t just find you. You have to go out and get it.
