@@ -9,3 +9,4 @@ Server Response Optimization Version Control API Gateway Backend Multi-threading
 Load Testing Replica Set Automation Do what you love and the money will follow. Server Response Blockchain Quantum Computing Scalability Great things never come from comfort zones. Edge Computing Database Indexing
 Great things never come from comfort zones. Scalability GraphQL A/B Testing The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Serverless Replica Set OAuth Cache Invalidation Frontend Optimization
 Frontend Success usually comes to those who are too busy to be looking for it. Cache Invalidation Framework Version Control Database Indexing Lambda Functions CI/CD JavaScript
+Blockchain Act as if what you do makes a difference. It does. Do what you love and the money will follow. Simplicity is the ultimate sophistication. IoT CI/CD Database Indexing Automation
