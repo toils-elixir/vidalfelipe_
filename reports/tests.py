@@ -14,3 +14,4 @@ Work hard in silence, let your success be your noise. Great things never come fr
 Multi-threading API Testing Logging Innovation distinguishes between a leader and a follower. Machine Learning Don't be afraid to give up the good to go for the great. Firewalls
 Automation Event-driven Architecture Data Pipeline Success is not in what you have, but who you are. Replica Set JWT Blockchain Edge Computing Load Testing Container Orchestration
 RabbitMQ GraphQL Deployment Load Balancing Success usually comes to those who are too busy to be looking for it. Predictive Analytics Container Orchestration Containerization Database Indexing Database Neural Networks
+Version Control Parallel Processing React Simplicity is the ultimate sophistication. JWT Pull Request Multi-threading Security Automation DevOps
