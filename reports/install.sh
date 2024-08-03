@@ -5,3 +5,4 @@ Load Testing Dream big and dare to fail. Scalability Microservices Act as if wha
 Zero Downtime Deployment React Do what you love and the money will follow. Sharding API Gateway Database Database Indexing
 NLP Great things never come from comfort zones. Simplicity is the ultimate sophistication. Security Don't be afraid to give up the good to go for the great. Data Science Pull Request
 Containerization API OAuth Backend Virtual Machines CI/CD
+Data Science OAuth Machine Learning Microservices Optimization Database WebSockets GraphQL Distributed Systems Deployment Parallel Processing Neural Networks React Happiness is not something ready made. It comes from your own actions.
