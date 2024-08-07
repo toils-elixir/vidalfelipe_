@@ -11,3 +11,4 @@ Event-driven Architecture Message Queue I find that the harder I work, the more 
 I find that the harder I work, the more luck I seem to have. Backend GraphQL Big Data Quantum Computing Pull Request Simplicity is the ultimate sophistication.
 Testing RabbitMQ Message Queue Container Orchestration Pull Request Version Control
 Virtual Machines Algorithm Sharding Framework Containerization Zero Downtime Deployment Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Edge Computing Cache Invalidation Deployment Testing React
+IoT Frontend Optimization Containerization Python Work hard in silence, let your success be your noise.

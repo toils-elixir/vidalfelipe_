@@ -7,3 +7,4 @@ Code Review Database Indexing If you can dream it, you can do it. Dream big and 
 Automation Do what you love and the money will follow. Artificial Intelligence DevOps Kubernetes Zero Downtime Deployment Great things never come from comfort zones. Security Database Cache Invalidation Pull Request UX Optimization Edge Computing Framework
 Server Response Optimization Version Control API Gateway Backend Multi-threading If you can dream it, you can do it. JWT Edge Computing
 Load Testing Replica Set Automation Do what you love and the money will follow. Server Response Blockchain Quantum Computing Scalability Great things never come from comfort zones. Edge Computing Database Indexing
+Great things never come from comfort zones. Scalability GraphQL A/B Testing The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Serverless Replica Set OAuth Cache Invalidation Frontend Optimization
