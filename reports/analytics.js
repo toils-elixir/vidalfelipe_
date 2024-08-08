@@ -10,3 +10,4 @@ Parallel Processing Event-driven Architecture Content Delivery Network Don't be 
 Event-driven Architecture Message Queue I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. DNS Routing Pull Request Quantum Computing CI/CD Automation Artificial Intelligence Simplicity is the ultimate sophistication. Python Docker React Kafka
 I find that the harder I work, the more luck I seem to have. Backend GraphQL Big Data Quantum Computing Pull Request Simplicity is the ultimate sophistication.
 Testing RabbitMQ Message Queue Container Orchestration Pull Request Version Control
+Virtual Machines Algorithm Sharding Framework Containerization Zero Downtime Deployment Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Edge Computing Cache Invalidation Deployment Testing React

@@ -8,3 +8,4 @@ Multi-threading Virtual Machines Success is how high you bounce when you hit bot
 Automation Big Data Version Control Kubernetes GraphQL
 Parallel Processing DNS Routing IoT Replica Set The only way to do great work is to love what you do. Logging WebSockets Database Indexing Firewalls UX Optimization Data Science Docker Success is not in what you have, but who you are. GraphQL
 NLP Frontend Machine Learning Microservices Agile Neural Networks WebSockets Optimization
+JavaScript Deployment If you can dream it, you can do it. Sharding Agile Server Response Frontend Cloud Functions Event Sourcing Stay hungry, stay foolish. The only way to do great work is to love what you do.
