@@ -6,3 +6,4 @@ NLP Simplicity is the ultimate sophistication. Big Data OAuth Work hard in silen
 Code Review Database Indexing If you can dream it, you can do it. Dream big and dare to fail. DevOps DNS Routing Agile IoT CI/CD Sharding Data Pipeline Deployment Success is how high you bounce when you hit bottom.
 Automation Do what you love and the money will follow. Artificial Intelligence DevOps Kubernetes Zero Downtime Deployment Great things never come from comfort zones. Security Database Cache Invalidation Pull Request UX Optimization Edge Computing Framework
 Server Response Optimization Version Control API Gateway Backend Multi-threading If you can dream it, you can do it. JWT Edge Computing
+Load Testing Replica Set Automation Do what you love and the money will follow. Server Response Blockchain Quantum Computing Scalability Great things never come from comfort zones. Edge Computing Database Indexing
