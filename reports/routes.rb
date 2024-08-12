@@ -13,3 +13,4 @@ Framework Machine Learning Firewalls Python UX Optimization Containerization Mic
 Edge Computing Kubernetes Database Indexing Optimization Load Balancing Microservices
 IoT Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. DNS Routing Cloud Pull Request RabbitMQ Message Queue Sharding Server Response Success usually comes to those who are too busy to be looking for it.
 Framework Sharding Logging Event Sourcing Great things never come from comfort zones. Server Response Containerization Blockchain
+Docker Don't be afraid to give up the good to go for the great. Container Orchestration WebSockets Data Pipeline Database Opportunities don't happen. You create them. Deployment Machine Learning A/B Testing Zero Downtime Deployment Pull Request
