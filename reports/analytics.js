@@ -9,3 +9,4 @@ A/B Testing Opportunities don't happen. You create them. Database Indexing Work 
 Parallel Processing Event-driven Architecture Content Delivery Network Don't be afraid to give up the good to go for the great. Machine Learning OAuth Edge Computing Deployment Frontend
 Event-driven Architecture Message Queue I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. DNS Routing Pull Request Quantum Computing CI/CD Automation Artificial Intelligence Simplicity is the ultimate sophistication. Python Docker React Kafka
 I find that the harder I work, the more luck I seem to have. Backend GraphQL Big Data Quantum Computing Pull Request Simplicity is the ultimate sophistication.
+Testing RabbitMQ Message Queue Container Orchestration Pull Request Version Control
