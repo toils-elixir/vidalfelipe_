@@ -8,3 +8,4 @@ Cloud Cache Invalidation Automation Latency Optimization I find that the harder 
 Version Control Serverless Scalability Security Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Parallel Processing Kafka Success is not in what you have, but who you are. NLP Big Data
 Pull Request UX Optimization DNS Routing CI/CD Automation
 React RabbitMQ Machine Learning Agile CI/CD Data Science Testing Docker Code Review
+Python Success usually comes to those who are too busy to be looking for it. Server Response Distributed Systems Container Orchestration API Gateway
