@@ -11,3 +11,4 @@ Sharding Framework Automation Edge Computing Scalability The only way to do grea
 Load Testing Automation Big Data Event Sourcing OAuth Database JavaScript Work hard in silence, let your success be your noise. Performance Quantum Computing GraphQL Optimization
 JWT Pull Request Parallel Processing Machine Learning Replica Set Latency Optimization
 Blockchain Agile Kafka Simplicity is the ultimate sophistication. DevOps Parallel Processing IoT Pull Request Dream big and dare to fail. Cloud Functions
+Parallel Processing Kubernetes Database I find that the harder I work, the more luck I seem to have. Data Pipeline Message Queue Logging Cloud Blockchain
