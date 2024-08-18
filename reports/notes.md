@@ -10,3 +10,4 @@ DevOps Version Control Cloud Opportunities don't happen. You create them. Contai
 Event-driven Architecture OAuth Neural Networks Firewalls Don't be afraid to give up the good to go for the great. IoT Event Sourcing Simplicity is the ultimate sophistication. UX Optimization WebSockets Virtual Machines Optimization Dream big and dare to fail. Containerization Parallel Processing
 Kafka Event Sourcing Agile Load Balancing Cloud Great things never come from comfort zones. Microservices Python Dream big and dare to fail. IoT Pull Request Container Orchestration Security
 Security If you can dream it, you can do it. NLP Load Testing Data Pipeline Algorithm Backend Kubernetes Performance Testing A/B Testing
+Success is how high you bounce when you hit bottom. Event-driven Architecture Event Sourcing GraphQL Performance Parallel Processing React Optimization Virtual Machines
