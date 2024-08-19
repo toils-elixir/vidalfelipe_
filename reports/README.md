@@ -10,3 +10,4 @@ Deployment CI/CD JavaScript Algorithm Event Sourcing DNS Routing Innovation dist
 Sharding Framework Automation Edge Computing Scalability The only way to do great work is to love what you do. Big Data To be the best, you must be able to handle the worst. Message Queue
 Load Testing Automation Big Data Event Sourcing OAuth Database JavaScript Work hard in silence, let your success be your noise. Performance Quantum Computing GraphQL Optimization
 JWT Pull Request Parallel Processing Machine Learning Replica Set Latency Optimization
+Blockchain Agile Kafka Simplicity is the ultimate sophistication. DevOps Parallel Processing IoT Pull Request Dream big and dare to fail. Cloud Functions
