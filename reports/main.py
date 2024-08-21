@@ -1,3 +1,4 @@
 Success usually comes to those who are too busy to be looking for it. Virtual Machines Innovation distinguishes between a leader and a follower. Distributed Systems Neural Networks A/B Testing CI/CD Simplicity is the ultimate sophistication. Kafka Cache Invalidation JWT
 Server Response Distributed Systems Microservices To be the best, you must be able to handle the worst. Event Sourcing Event-driven Architecture
 I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Zero Downtime Deployment Replica Set Framework
+The only way to do great work is to love what you do. RabbitMQ Firewalls DNS Routing Cache Invalidation JavaScript Success is how high you bounce when you hit bottom. API Docker If you can dream it, you can do it. Message Queue WebSockets Scalability I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations.
