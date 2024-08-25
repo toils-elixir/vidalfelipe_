@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Server Response Dat
 Deployment CI/CD JavaScript Algorithm Event Sourcing DNS Routing Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Neural Networks
 Sharding Framework Automation Edge Computing Scalability The only way to do great work is to love what you do. Big Data To be the best, you must be able to handle the worst. Message Queue
 Load Testing Automation Big Data Event Sourcing OAuth Database JavaScript Work hard in silence, let your success be your noise. Performance Quantum Computing GraphQL Optimization
+JWT Pull Request Parallel Processing Machine Learning Replica Set Latency Optimization
