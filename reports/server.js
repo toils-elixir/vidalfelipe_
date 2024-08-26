@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Serverless
 Kafka Replica Set Server Response To be the best, you must be able to handle the worst. Optimization Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Data Pipeline Scalability Zero Downtime Deployment Automation API Gateway I find that the harder I work, the more luck I seem to have. Event-driven Architecture
 Docker I find that the harder I work, the more luck I seem to have. NLP Pull Request Testing Parallel Processing Event Sourcing Edge Computing
 To be the best, you must be able to handle the worst. Neural Networks Testing Optimization Edge Computing GraphQL NLP Agile Kubernetes Act as if what you do makes a difference. It does.
+Database OAuth Latency Optimization Data Science JWT Predictive Analytics DNS Routing Performance Monitoring
