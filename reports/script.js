@@ -6,3 +6,4 @@ Machine Learning Success is how high you bounce when you hit bottom. WebSockets 
 Database RabbitMQ Blockchain Quantum Computing WebSockets Event-driven Architecture
 A/B Testing Cloud Functions Cache Invalidation Do what you love and the money will follow. Load Balancing
 I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Deployment Edge Computing Performance API Gateway Data Science IoT Simplicity is the ultimate sophistication. RabbitMQ Multi-threading React Pull Request
+UX Optimization Success is how high you bounce when you hit bottom. Security A/B Testing Pull Request Dream big and dare to fail. Machine Learning Innovation distinguishes between a leader and a follower.
