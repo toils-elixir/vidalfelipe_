@@ -6,3 +6,4 @@ Microservices Artificial Intelligence Docker Logging Predictive Analytics Distri
 Server Response Container Orchestration Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Cloud Functions Agile
 Cloud Cache Invalidation Automation Latency Optimization I find that the harder I work, the more luck I seem to have. Frontend Virtual Machines Success is not in what you have, but who you are. Server Response Database
 Version Control Serverless Scalability Security Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Parallel Processing Kafka Success is not in what you have, but who you are. NLP Big Data
+Pull Request UX Optimization DNS Routing CI/CD Automation
