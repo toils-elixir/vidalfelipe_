@@ -8,3 +8,4 @@ Version Control Lambda Functions Python Cloud Functions Content Delivery Network
 I find that the harder I work, the more luck I seem to have. Server Response Data Pipeline Load Testing Multi-threading Simplicity is the ultimate sophistication. Virtual Machines Security Backend The only way to do great work is to love what you do. Do what you love and the money will follow. Testing Logging
 Deployment CI/CD JavaScript Algorithm Event Sourcing DNS Routing Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Neural Networks
 Sharding Framework Automation Edge Computing Scalability The only way to do great work is to love what you do. Big Data To be the best, you must be able to handle the worst. Message Queue
+Load Testing Automation Big Data Event Sourcing OAuth Database JavaScript Work hard in silence, let your success be your noise. Performance Quantum Computing GraphQL Optimization
