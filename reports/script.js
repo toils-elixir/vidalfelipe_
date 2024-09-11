@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. WebSockets
 Difficult roads often lead to beautiful destinations. IoT DevOps Do what you love and the money will follow. Cache Invalidation Success is not in what you have, but who you are. Database Happiness is not something ready made. It comes from your own actions. Machine Learning
 Machine Learning Success is how high you bounce when you hit bottom. WebSockets Version Control Simplicity is the ultimate sophistication. Database Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Container Orchestration UX Optimization Virtual Machines
 Database RabbitMQ Blockchain Quantum Computing WebSockets Event-driven Architecture
+A/B Testing Cloud Functions Cache Invalidation Do what you love and the money will follow. Load Balancing

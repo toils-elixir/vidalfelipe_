@@ -5,3 +5,4 @@ Parallel Processing Data Pipeline Content Delivery Network IoT Lambda Functions 
 Kafka Edge Computing Frontend DNS Routing Container Orchestration Testing I find that the harder I work, the more luck I seem to have. Event Sourcing UX Optimization
 Act as if what you do makes a difference. It does. Multi-threading Load Balancing Pull Request Microservices RabbitMQ Load Testing If you can dream it, you can do it.
 Multi-threading Virtual Machines Success is how high you bounce when you hit bottom. Docker Backend Edge Computing Work hard in silence, let your success be your noise. Blockchain Automation Data Pipeline Great things never come from comfort zones. Act as if what you do makes a difference. It does. Parallel Processing
+Automation Big Data Version Control Kubernetes GraphQL

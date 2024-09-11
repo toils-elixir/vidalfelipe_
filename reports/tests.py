@@ -9,3 +9,4 @@ Distributed Systems Success doesn’t just find you. You have to go out and get it
 Multi-threading Predictive Analytics Do what you love and the money will follow. Server Response Security React Lambda Functions Serverless Firewalls NLP Dream big and dare to fail. Neural Networks Optimization Performance
 Kafka Testing Server Response API Docker Virtual Machines
 Latency Optimization Optimization React Microservices OAuth Cloud If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. JavaScript Container Orchestration
+Quantum Computing Sharding Data Pipeline GraphQL Performance Parallel Processing Edge Computing
