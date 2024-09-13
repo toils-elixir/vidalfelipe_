@@ -12,3 +12,4 @@ Artificial Intelligence JWT Opportunities don't happen. You create them. DevOps 
 Framework Machine Learning Firewalls Python UX Optimization Containerization Microservices Kubernetes If you can dream it, you can do it. Distributed Systems Success is how high you bounce when you hit bottom. A/B Testing Predictive Analytics
 Edge Computing Kubernetes Database Indexing Optimization Load Balancing Microservices
 IoT Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. DNS Routing Cloud Pull Request RabbitMQ Message Queue Sharding Server Response Success usually comes to those who are too busy to be looking for it.
+Framework Sharding Logging Event Sourcing Great things never come from comfort zones. Server Response Containerization Blockchain
