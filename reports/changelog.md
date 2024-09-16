@@ -1,3 +1,4 @@
 Sharding UX Optimization Code Review Deployment Lambda Functions Server Response Serverless Work hard in silence, let your success be your noise. Latency Optimization
 Distributed Systems API Gateway Performance JavaScript Docker Container Orchestration Neural Networks RabbitMQ Success usually comes to those who are too busy to be looking for it. Microservices
 Cloud Functions Success is not in what you have, but who you are. Latency Optimization JavaScript Parallel Processing Content Delivery Network Deployment Database Indexing Containerization NLP To be the best, you must be able to handle the worst. Microservices Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish.
+Serverless I find that the harder I work, the more luck I seem to have. IoT Frontend Parallel Processing Optimization Success usually comes to those who are too busy to be looking for it. Docker Dream big and dare to fail.
