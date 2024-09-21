@@ -7,3 +7,4 @@ To be the best, you must be able to handle the worst. Success is how high you bo
 Innovation distinguishes between a leader and a follower. Predictive Analytics Success doesn’t just find you. You have to go out and get it. GraphQL Server Response Performance Lambda Functions Quantum Computing
 Logging Big Data The only way to do great work is to love what you do. Kafka Happiness is not something ready made. It comes from your own actions. Framework WebSockets Cloud Functions Artificial Intelligence Algorithm API GraphQL Event-driven Architecture
 Machine Learning Optimization Firewalls Containerization Parallel Processing The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Server Response
+Monitoring Pull Request Algorithm Success doesn’t just find you. You have to go out and get it. Security Framework React Load Balancing

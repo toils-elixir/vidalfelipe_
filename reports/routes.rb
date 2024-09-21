@@ -10,3 +10,4 @@ API Python Agile Containerization Don't be afraid to give up the good to go for 
 Happiness is not something ready made. It comes from your own actions. Firewalls Agile Artificial Intelligence GraphQL Containerization Optimization Version Control Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. NLP
 Artificial Intelligence JWT Opportunities don't happen. You create them. DevOps Framework RabbitMQ Success doesn’t just find you. You have to go out and get it. API Gateway Kafka
 Framework Machine Learning Firewalls Python UX Optimization Containerization Microservices Kubernetes If you can dream it, you can do it. Distributed Systems Success is how high you bounce when you hit bottom. A/B Testing Predictive Analytics
+Edge Computing Kubernetes Database Indexing Optimization Load Balancing Microservices
