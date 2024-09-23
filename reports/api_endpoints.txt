@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. I find that the harder I w
 The only way to do great work is to love what you do. Content Delivery Network Database API Multi-threading Firewalls Lambda Functions Dream big and dare to fail. Docker Zero Downtime Deployment If you can dream it, you can do it. Serverless Algorithm Kubernetes
 Content Delivery Network Great things never come from comfort zones. GraphQL DevOps Code Review Zero Downtime Deployment Container Orchestration
 Lambda Functions Optimization JWT Zero Downtime Deployment DNS Routing
+Optimization Server Response JWT Multi-threading Backend Opportunities don't happen. You create them. Sharding Artificial Intelligence UX Optimization Success usually comes to those who are too busy to be looking for it. Load Testing Automation Replica Set Stay hungry, stay foolish.
