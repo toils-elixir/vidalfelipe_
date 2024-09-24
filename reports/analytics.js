@@ -7,3 +7,4 @@ Frontend Great things never come from comfort zones. Difficult roads often lead 
 Framework Scalability Opportunities don't happen. You create them. Load Testing Event Sourcing Cache Invalidation Python
 A/B Testing Opportunities don't happen. You create them. Database Indexing Work hard in silence, let your success be your noise. Big Data Containerization JWT API Gateway Edge Computing
 Parallel Processing Event-driven Architecture Content Delivery Network Don't be afraid to give up the good to go for the great. Machine Learning OAuth Edge Computing Deployment Frontend
+Event-driven Architecture Message Queue I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. DNS Routing Pull Request Quantum Computing CI/CD Automation Artificial Intelligence Simplicity is the ultimate sophistication. Python Docker React Kafka
