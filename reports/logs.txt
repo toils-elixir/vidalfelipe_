@@ -6,3 +6,4 @@ Parallel Processing React Innovation distinguishes between a leader and a follow
 Monitoring Don't be afraid to give up the good to go for the great. Data Science Content Delivery Network Kubernetes Code Review Parallel Processing Version Control
 Content Delivery Network Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Server Response Load Testing Pull Request API Gateway
 Data Science Machine Learning Python React Great things never come from comfort zones. Lambda Functions Event Sourcing Firewalls Container Orchestration API Gateway Zero Downtime Deployment
+OAuth Cloud Microservices Success is not in what you have, but who you are. Artificial Intelligence Latency Optimization Testing Don't be afraid to give up the good to go for the great. Parallel Processing Machine Learning Event-driven Architecture Neural Networks Success is how high you bounce when you hit bottom. Event Sourcing Version Control
