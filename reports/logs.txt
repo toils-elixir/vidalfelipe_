@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. A/B Testing To be the best, you must 
 Parallel Processing React Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Virtual Machines Cache Invalidation Lambda Functions Blockchain
 Monitoring Don't be afraid to give up the good to go for the great. Data Science Content Delivery Network Kubernetes Code Review Parallel Processing Version Control
 Content Delivery Network Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Server Response Load Testing Pull Request API Gateway
+Data Science Machine Learning Python React Great things never come from comfort zones. Lambda Functions Event Sourcing Firewalls Container Orchestration API Gateway Zero Downtime Deployment
