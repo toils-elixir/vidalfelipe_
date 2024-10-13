@@ -6,3 +6,4 @@ Cloud Functions Latency Optimization Do what you love and the money will follow.
 Success is how high you bounce when you hit bottom. Microservices Deployment Predictive Analytics Load Balancing RabbitMQ
 Version Control Lambda Functions Python Cloud Functions Content Delivery Network GraphQL
 I find that the harder I work, the more luck I seem to have. Server Response Data Pipeline Load Testing Multi-threading Simplicity is the ultimate sophistication. Virtual Machines Security Backend The only way to do great work is to love what you do. Do what you love and the money will follow. Testing Logging
+Deployment CI/CD JavaScript Algorithm Event Sourcing DNS Routing Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Neural Networks
