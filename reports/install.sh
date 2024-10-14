@@ -4,3 +4,4 @@ Multi-threading Scalability Success is how high you bounce when you hit bottom. 
 Load Testing Dream big and dare to fail. Scalability Microservices Act as if what you do makes a difference. It does. UX Optimization Event-driven Architecture Cache Invalidation Server Response
 Zero Downtime Deployment React Do what you love and the money will follow. Sharding API Gateway Database Database Indexing
 NLP Great things never come from comfort zones. Simplicity is the ultimate sophistication. Security Don't be afraid to give up the good to go for the great. Data Science Pull Request
+Containerization API OAuth Backend Virtual Machines CI/CD
