@@ -6,3 +6,4 @@ Dream big and dare to fail. Performance Quantum Computing Kubernetes Predictive 
 Success doesn’t just find you. You have to go out and get it. Firewalls Backend Stay hungry, stay foolish. OAuth Big Data Frontend UX Optimization Quantum Computing Security
 Multi-threading Python Edge Computing Do what you love and the money will follow. Cache Invalidation NLP Algorithm
 Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Cloud Containerization Cache Invalidation Multi-threading Data Science Serverless UX Optimization Performance API Gateway Virtual Machines Dream big and dare to fail.
+DevOps Version Control Cloud Opportunities don't happen. You create them. Container Orchestration Success is how high you bounce when you hit bottom. NLP Dream big and dare to fail. API Gateway Firewalls Database Edge Computing
