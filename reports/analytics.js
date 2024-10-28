@@ -6,3 +6,4 @@ Virtual Machines DevOps Firewalls Agile Logging Great things never come from com
 Frontend Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. IoT Load Balancing Multi-threading NLP Lambda Functions DNS Routing Scalability A/B Testing Microservices Algorithm Message Queue Server Response
 Framework Scalability Opportunities don't happen. You create them. Load Testing Event Sourcing Cache Invalidation Python
 A/B Testing Opportunities don't happen. You create them. Database Indexing Work hard in silence, let your success be your noise. Big Data Containerization JWT API Gateway Edge Computing
+Parallel Processing Event-driven Architecture Content Delivery Network Don't be afraid to give up the good to go for the great. Machine Learning OAuth Edge Computing Deployment Frontend
