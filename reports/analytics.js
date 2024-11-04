@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. WebSocket
 Virtual Machines DevOps Firewalls Agile Logging Great things never come from comfort zones. Data Pipeline
 Frontend Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. IoT Load Balancing Multi-threading NLP Lambda Functions DNS Routing Scalability A/B Testing Microservices Algorithm Message Queue Server Response
 Framework Scalability Opportunities don't happen. You create them. Load Testing Event Sourcing Cache Invalidation Python
+A/B Testing Opportunities don't happen. You create them. Database Indexing Work hard in silence, let your success be your noise. Big Data Containerization JWT API Gateway Edge Computing
