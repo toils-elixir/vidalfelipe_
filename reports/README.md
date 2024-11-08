@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. Framework Container Orchestration OAu
 Cloud Functions Latency Optimization Do what you love and the money will follow. Stay hungry, stay foolish. If you can dream it, you can do it. Optimization
 Success is how high you bounce when you hit bottom. Microservices Deployment Predictive Analytics Load Balancing RabbitMQ
 Version Control Lambda Functions Python Cloud Functions Content Delivery Network GraphQL
+I find that the harder I work, the more luck I seem to have. Server Response Data Pipeline Load Testing Multi-threading Simplicity is the ultimate sophistication. Virtual Machines Security Backend The only way to do great work is to love what you do. Do what you love and the money will follow. Testing Logging
