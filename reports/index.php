@@ -4,3 +4,4 @@ UX Optimization Act as if what you do makes a difference. It does. Performance T
 Firewalls WebSockets Performance A/B Testing Cache Invalidation Message Queue Neural Networks Happiness is not something ready made. It comes from your own actions. Framework Deployment
 Database Artificial Intelligence React Container Orchestration Great things never come from comfort zones. Sharding WebSockets Pull Request Frontend RabbitMQ Opportunities don't happen. You create them. Performance
 To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Container Orchestration Monitoring Message Queue CI/CD Predictive Analytics Zero Downtime Deployment Sharding Agile DevOps
+Innovation distinguishes between a leader and a follower. Predictive Analytics Success doesn’t just find you. You have to go out and get it. GraphQL Server Response Performance Lambda Functions Quantum Computing

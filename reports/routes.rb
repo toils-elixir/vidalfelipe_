@@ -5,3 +5,4 @@ Pull Request GraphQL Framework CI/CD Kafka Success usually comes to those who ar
 Simplicity is the ultimate sophistication. If you can dream it, you can do it. Dream big and dare to fail. Security Parallel Processing Success is not in what you have, but who you are. GraphQL Load Testing Serverless
 Framework React GraphQL Edge Computing DNS Routing Docker
 Replica Set API Gateway Server Response Multi-threading Pull Request
+Database Event Sourcing Success usually comes to those who are too busy to be looking for it. Server Response Microservices I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Do what you love and the money will follow. Automation Work hard in silence, let your success be your noise. UX Optimization Version Control Event-driven Architecture
