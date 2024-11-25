@@ -3,3 +3,4 @@ Version Control Great things never come from comfort zones. Virtual Machines Do 
 API I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Machine Learning Database Indexing Sharding
 Backend OAuth Framework Latency Optimization API Gateway If you can dream it, you can do it.
 Algorithm Server Response Agile Version Control Multi-threading Great things never come from comfort zones. Database Indexing Container Orchestration Cloud Functions Replica Set Optimization
+Code Review Data Science Event-driven Architecture Work hard in silence, let your success be your noise. Scalability Sharding DNS Routing Container Orchestration I find that the harder I work, the more luck I seem to have. Latency Optimization Simplicity is the ultimate sophistication. Distributed Systems
