@@ -2,3 +2,4 @@ Container Orchestration Data Pipeline Success doesn’t just find you. You have to
 Database Monitoring Python Agile Multi-threading Load Balancing Event Sourcing Deployment
 Optimization Difficult roads often lead to beautiful destinations. Backend Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Scalability Replica Set Success doesn’t just find you. You have to go out and get it. JavaScript CI/CD Content Delivery Network IoT
 Predictive Analytics Deployment Automation Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Cloud Functions
+Python Predictive Analytics Success doesn’t just find you. You have to go out and get it. Serverless UX Optimization IoT I find that the harder I work, the more luck I seem to have. Microservices Server Response JWT Cache Invalidation

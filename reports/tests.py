@@ -3,3 +3,4 @@ Message Queue Act as if what you do makes a difference. It does. IoT Backend Do 
 Algorithm UX Optimization Distributed Systems Virtual Machines Event Sourcing
 Event Sourcing Testing Version Control Security Optimization API Gateway Virtual Machines
 Cache Invalidation Monitoring Serverless API Big Data Data Science Data Pipeline Stay hungry, stay foolish.
+Big Data Event-driven Architecture JWT Sharding GraphQL To be the best, you must be able to handle the worst. Automation Kubernetes IoT If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Database Indexing Work hard in silence, let your success be your noise. WebSockets

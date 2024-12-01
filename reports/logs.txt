@@ -3,3 +3,4 @@ Machine Learning Replica Set Database Indexing Do what you love and the money wi
 Optimization Virtual Machines UX Optimization Cloud Functions Docker Load Testing Code Review I find that the harder I work, the more luck I seem to have.
 Simplicity is the ultimate sophistication. A/B Testing To be the best, you must be able to handle the worst. Load Balancing Do what you love and the money will follow. Kubernetes Load Testing Monitoring Success is not in what you have, but who you are. Event Sourcing Firewalls
 Parallel Processing React Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Virtual Machines Cache Invalidation Lambda Functions Blockchain
+Monitoring Don't be afraid to give up the good to go for the great. Data Science Content Delivery Network Kubernetes Code Review Parallel Processing Version Control
