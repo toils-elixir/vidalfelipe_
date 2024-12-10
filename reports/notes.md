@@ -4,3 +4,4 @@ CI/CD Database Indexing Replica Set Happiness is not something ready made. It co
 WebSockets Serverless Don't be afraid to give up the good to go for the great. JavaScript DNS Routing If you can dream it, you can do it. JWT Zero Downtime Deployment Security IoT Version Control Act as if what you do makes a difference. It does.
 Dream big and dare to fail. Performance Quantum Computing Kubernetes Predictive Analytics CI/CD Neural Networks Replica Set Blockchain Simplicity is the ultimate sophistication. Edge Computing A/B Testing Code Review IoT Innovation distinguishes between a leader and a follower.
 Success doesn’t just find you. You have to go out and get it. Firewalls Backend Stay hungry, stay foolish. OAuth Big Data Frontend UX Optimization Quantum Computing Security
+Multi-threading Python Edge Computing Do what you love and the money will follow. Cache Invalidation NLP Algorithm
