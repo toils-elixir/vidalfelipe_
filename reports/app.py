@@ -1,2 +1,3 @@
 Python Monitoring Parallel Processing CI/CD Docker Algorithm
 OAuth Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Edge Computing CI/CD Containerization Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Predictive Analytics Microservices Blockchain Deployment To be the best, you must be able to handle the worst. WebSockets
+Distributed Systems Predictive Analytics Framework Event-driven Architecture Data Pipeline Sharding Database I find that the harder I work, the more luck I seem to have. Docker NLP Testing Security UX Optimization Parallel Processing Load Testing

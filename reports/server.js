@@ -2,3 +2,4 @@ Parallel Processing Success usually comes to those who are too busy to be lookin
 Frontend Content Delivery Network Parallel Processing Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Replica Set Cache Invalidation Scalability OAuth Kafka JavaScript RabbitMQ To be the best, you must be able to handle the worst. Optimization Do what you love and the money will follow.
 Frontend Testing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. React DevOps Agile JWT Quantum Computing Work hard in silence, let your success be your noise. Automation Python If you can dream it, you can do it. Kafka
 Backend RabbitMQ Server Response Agile Microservices
+API Gateway Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Database Server Response Act as if what you do makes a difference. It does. GraphQL API Distributed Systems
