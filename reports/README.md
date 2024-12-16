@@ -2,3 +2,4 @@ Serverless To be the best, you must be able to handle the worst. Firewalls Act a
 Database Lambda Functions Act as if what you do makes a difference. It does. Pull Request GraphQL Version Control UX Optimization Success doesn’t just find you. You have to go out and get it. Automation Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. The only way to do great work is to love what you do. DevOps Great things never come from comfort zones.
 Quantum Computing Cloud Database Indexing Message Queue React Serverless Cloud Functions If you can dream it, you can do it. API Great things never come from comfort zones.
 Simplicity is the ultimate sophistication. Framework Container Orchestration OAuth Success doesn’t just find you. You have to go out and get it.
+Cloud Functions Latency Optimization Do what you love and the money will follow. Stay hungry, stay foolish. If you can dream it, you can do it. Optimization
