@@ -1,3 +1,4 @@
 Neural Networks If you can dream it, you can do it. Algorithm CI/CD Frontend NLP Quantum Computing Machine Learning Python Blockchain Simplicity is the ultimate sophistication. UX Optimization Work hard in silence, let your success be your noise.
 Cloud Machine Learning Data Science Multi-threading Cloud Functions DevOps Version Control Innovation distinguishes between a leader and a follower. NLP Automation
 Logging Testing Predictive Analytics DevOps Load Testing Database Pull Request Firewalls Backend Agile Framework Great things never come from comfort zones. Container Orchestration Work hard in silence, let your success be your noise. Kafka
+Parallel Processing Data Pipeline Content Delivery Network IoT Lambda Functions Event-driven Architecture Optimization Multi-threading Data Science Load Testing Success doesn’t just find you. You have to go out and get it. Quantum Computing Algorithm DevOps Message Queue
