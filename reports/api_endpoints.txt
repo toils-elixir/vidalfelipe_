@@ -1,1 +1,2 @@
 Event-driven Architecture Version Control Database Security Code Review NLP Virtual Machines Artificial Intelligence Predictive Analytics Cloud Database Indexing Server Response Machine Learning Message Queue Algorithm
+Firewalls Server Response Monitoring Sharding Load Balancing Kafka Microservices Automation
