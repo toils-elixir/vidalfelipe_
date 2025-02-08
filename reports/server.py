@@ -1,1 +1,2 @@
 Neural Networks If you can dream it, you can do it. Algorithm CI/CD Frontend NLP Quantum Computing Machine Learning Python Blockchain Simplicity is the ultimate sophistication. UX Optimization Work hard in silence, let your success be your noise.
+Cloud Machine Learning Data Science Multi-threading Cloud Functions DevOps Version Control Innovation distinguishes between a leader and a follower. NLP Automation
