@@ -1,0 +1,1 @@
+Serverless To be the best, you must be able to handle the worst. Firewalls Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. OAuth Server Response Microservices Success usually comes to those who are too busy to be looking for it. Cache Invalidation
